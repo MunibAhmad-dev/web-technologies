@@ -1,0 +1,3 @@
+# Lab Reflection
+
+During this lab, I learned how to use Git to track changes in a project. I practiced creating and deleting files and saw how Git records each change in the repository history. Working with branches helped me understand how to safely experiment with new features without affecting the main project. Overall, this lab improved my confidence in using basic Git commands for version control.
